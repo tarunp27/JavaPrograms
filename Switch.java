@@ -10,6 +10,10 @@ public  class Switch{
           System.out.println("large");
           break;
 
+          case 10:
+          System.out.println("Matching");
+          break;
+
           default:
           System.out.println("Optimum");
           break;
